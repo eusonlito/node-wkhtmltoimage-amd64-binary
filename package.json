@@ -1,0 +1,21 @@
+{
+  "name": "wkhtmltoimage-amd64-binary",
+  "version": "0.12.4",
+  "description": "Linux amd64 wkhtmltoimage Binary to install from npm",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eusonlito/node-wkhtmltoimage-amd64-binary.git"
+  },
+  "keywords": [
+    "wkhtmltoimage",
+    "amd64"
+  ],
+  "author": "Lito",
+  "bugs": {
+    "url": "https://github.com/eusonlito/node-wkhtmltoimage-amd64-binary/issues"
+  },
+  "bin": {
+    "wkhtmltoimage-amd64" : "./bin/wkhtmltoimage-amd64"
+  },
+  "homepage": "https://github.com/eusonlito/node-wkhtmltoimage-amd64-binary#readme"
+}
